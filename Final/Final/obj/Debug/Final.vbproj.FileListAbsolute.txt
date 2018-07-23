@@ -1,0 +1,12 @@
+D:\Projects\VB\Final\Final\bin\Debug\Final.exe.config
+D:\Projects\VB\Final\Final\bin\Debug\Final.exe
+D:\Projects\VB\Final\Final\bin\Debug\Final.pdb
+D:\Projects\VB\Final\Final\bin\Debug\Final.xml
+D:\Projects\VB\Final\Final\obj\Debug\Final.vbprojResolveAssemblyReference.cache
+D:\Projects\VB\Final\Final\obj\Debug\Final.Form1.resources
+D:\Projects\VB\Final\Final\obj\Debug\Final.Resources.resources
+D:\Projects\VB\Final\Final\obj\Debug\Final.vbproj.GenerateResource.cache
+D:\Projects\VB\Final\Final\obj\Debug\Final.vbproj.CoreCompileInputs.cache
+D:\Projects\VB\Final\Final\obj\Debug\Final.exe
+D:\Projects\VB\Final\Final\obj\Debug\Final.xml
+D:\Projects\VB\Final\Final\obj\Debug\Final.pdb

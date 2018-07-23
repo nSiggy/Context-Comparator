@@ -1,0 +1,720 @@
+Comparing: kim jong un nuklir-liputan6.txt
+kim jong un nuklir-tempo.txt
+TF: 0,27
+TFALL: 0,41
+co-oc: 0,09
+----------
+Comparing: kim jong un nuklir-liputan6.txt
+kim jong un nuklir-tirto.txt
+TF: 0,48
+TFALL: 0,59
+co-oc: 0,27
+----------
+Comparing: kim jong un nuklir-liputan6.txt
+PKS Prabowo-detik.txt
+TF: 0,05
+TFALL: 0,14
+co-oc: 0,18
+----------
+Comparing: kim jong un nuklir-liputan6.txt
+setnov-detik.txt
+TF: 0,14
+TFALL: 0,08
+co-oc: 0,09
+----------
+Comparing: kim jong un nuklir-liputan6.txt
+setnov-dw.txt
+TF: 0,07
+TFALL: 0,08
+co-oc: 0,09
+----------
+Comparing: kim jong un nuklir-liputan6.txt
+setnov-idntimes.txt
+TF: 0,07
+TFALL: 0,20
+co-oc: 0,09
+----------
+Comparing: kim jong un nuklir-liputan6.txt
+setnov-kontan.txt
+TF: 0,11
+TFALL: 0,02
+co-oc: 0,09
+----------
+Comparing: kim jong un nuklir-liputan6.txt
+setnov-okezone.txt
+TF: 0,11
+TFALL: 0,10
+co-oc: 0,09
+----------
+Comparing: kim jong un nuklir-liputan6.txt
+sumur minyak-cnnindonesia.txt
+TF: 0,07
+TFALL: 0,29
+co-oc: 0,18
+----------
+Comparing: kim jong un nuklir-liputan6.txt
+sumur minyak-detik.txt
+TF: 0,16
+TFALL: 0,16
+co-oc: 0,09
+----------
+Comparing: kim jong un nuklir-liputan6.txt
+sumur minyak-kumparan.txt
+TF: 0,05
+TFALL: 0,27
+co-oc: 0,18
+----------
+Comparing: kim jong un nuklir-liputan6.txt
+sumur minyak-nusantara.txt
+TF: 0,07
+TFALL: 0,27
+co-oc: 0,18
+----------
+Comparing: kim jong un nuklir-liputan6.txt
+sumur minyak-sinarharapan.txt
+TF: 0,07
+TFALL: 0,12
+co-oc: 0,18
+----------
+Comparing: kim jong un nuklir-liputan6.txt
+syeikh-detik.txt
+TF: 0,16
+TFALL: 0,18
+co-oc: 0,18
+----------
+Comparing: kim jong un nuklir-liputan6.txt
+syeikh-republika.txt
+TF: 0,16
+TFALL: 0,04
+co-oc: 0,09
+----------
+Comparing: kim jong un nuklir-tempo.txt
+kim jong un nuklir-tirto.txt
+TF: 0,12
+TFALL: 0,37
+co-oc: 0,10
+----------
+Comparing: kim jong un nuklir-tempo.txt
+PKS Prabowo-detik.txt
+TF: 0,10
+TFALL: 0,17
+co-oc: 0,03
+----------
+Comparing: kim jong un nuklir-tempo.txt
+setnov-detik.txt
+TF: 0,12
+TFALL: 0,10
+co-oc: 0,02
+----------
+Comparing: kim jong un nuklir-tempo.txt
+setnov-dw.txt
+TF: 0,03
+TFALL: 0,07
+co-oc: 0,04
+----------
+Comparing: kim jong un nuklir-tempo.txt
+setnov-idntimes.txt
+TF: 0,10
+TFALL: 0,17
+co-oc: 0,02
+----------
+Comparing: kim jong un nuklir-tempo.txt
+setnov-kontan.txt
+TF: 0,09
+TFALL: 0,07
+co-oc: 0,03
+----------
+Comparing: kim jong un nuklir-tempo.txt
+setnov-okezone.txt
+TF: 0,05
+TFALL: 0,11
+co-oc: 0,03
+----------
+Comparing: kim jong un nuklir-tempo.txt
+sumur minyak-cnnindonesia.txt
+TF: 0,01
+TFALL: 0,12
+co-oc: 0,02
+----------
+Comparing: kim jong un nuklir-tempo.txt
+sumur minyak-detik.txt
+TF: 0,04
+TFALL: 0,14
+co-oc: 0,03
+----------
+Comparing: kim jong un nuklir-tempo.txt
+sumur minyak-kumparan.txt
+TF: 0,04
+TFALL: 0,11
+co-oc: 0,04
+----------
+Comparing: kim jong un nuklir-tempo.txt
+sumur minyak-nusantara.txt
+TF: 0,04
+TFALL: 0,14
+co-oc: 0,06
+----------
+Comparing: kim jong un nuklir-tempo.txt
+sumur minyak-sinarharapan.txt
+TF: 0,04
+TFALL: 0,13
+co-oc: 0,03
+----------
+Comparing: kim jong un nuklir-tempo.txt
+syeikh-detik.txt
+TF: 0,03
+TFALL: 0,21
+co-oc: 0,03
+----------
+Comparing: kim jong un nuklir-tempo.txt
+syeikh-republika.txt
+TF: 0,03
+TFALL: 0,19
+co-oc: 0,02
+----------
+Comparing: kim jong un nuklir-tirto.txt
+PKS Prabowo-detik.txt
+TF: 0,04
+TFALL: 0,21
+co-oc: 0,06
+----------
+Comparing: kim jong un nuklir-tirto.txt
+setnov-detik.txt
+TF: 0,12
+TFALL: 0,11
+co-oc: 0,02
+----------
+Comparing: kim jong un nuklir-tirto.txt
+setnov-dw.txt
+TF: 0,01
+TFALL: 0,15
+co-oc: 0,04
+----------
+Comparing: kim jong un nuklir-tirto.txt
+setnov-idntimes.txt
+TF: 0,04
+TFALL: 0,17
+co-oc: 0,02
+----------
+Comparing: kim jong un nuklir-tirto.txt
+setnov-kontan.txt
+TF: 0,05
+TFALL: 0,11
+co-oc: 0,03
+----------
+Comparing: kim jong un nuklir-tirto.txt
+setnov-okezone.txt
+TF: 0,08
+TFALL: 0,14
+co-oc: 0,05
+----------
+Comparing: kim jong un nuklir-tirto.txt
+sumur minyak-cnnindonesia.txt
+TF: 0,05
+TFALL: 0,15
+co-oc: 0,02
+----------
+Comparing: kim jong un nuklir-tirto.txt
+sumur minyak-detik.txt
+TF: 0,06
+TFALL: 0,21
+co-oc: 0,03
+----------
+Comparing: kim jong un nuklir-tirto.txt
+sumur minyak-kumparan.txt
+TF: 0,05
+TFALL: 0,12
+co-oc: 0,04
+----------
+Comparing: kim jong un nuklir-tirto.txt
+sumur minyak-nusantara.txt
+TF: 0,05
+TFALL: 0,15
+co-oc: 0,02
+----------
+Comparing: kim jong un nuklir-tirto.txt
+sumur minyak-sinarharapan.txt
+TF: 0,02
+TFALL: 0,11
+co-oc: 0,03
+----------
+Comparing: kim jong un nuklir-tirto.txt
+syeikh-detik.txt
+TF: 0,05
+TFALL: 0,16
+co-oc: 0,03
+----------
+Comparing: kim jong un nuklir-tirto.txt
+syeikh-republika.txt
+TF: 0,04
+TFALL: 0,19
+co-oc: 0,04
+----------
+Comparing: PKS Prabowo-detik.txt
+setnov-detik.txt
+TF: 0,02
+TFALL: 0,15
+co-oc: 0,03
+----------
+Comparing: PKS Prabowo-detik.txt
+setnov-dw.txt
+TF: 0,03
+TFALL: 0,19
+co-oc: 0,04
+----------
+Comparing: PKS Prabowo-detik.txt
+setnov-idntimes.txt
+TF: 0,03
+TFALL: 0,28
+co-oc: 0,03
+----------
+Comparing: PKS Prabowo-detik.txt
+setnov-kontan.txt
+TF: 0,01
+TFALL: 0,15
+co-oc: 0,03
+----------
+Comparing: PKS Prabowo-detik.txt
+setnov-okezone.txt
+TF: 0,11
+TFALL: 0,26
+co-oc: 0,03
+----------
+Comparing: PKS Prabowo-detik.txt
+sumur minyak-cnnindonesia.txt
+TF: 0,02
+TFALL: 0,19
+co-oc: 0,06
+----------
+Comparing: PKS Prabowo-detik.txt
+sumur minyak-detik.txt
+TF: 0,03
+TFALL: 0,13
+co-oc: 0,03
+----------
+Comparing: PKS Prabowo-detik.txt
+sumur minyak-kumparan.txt
+TF: 0,02
+TFALL: 0,19
+co-oc: 0,06
+----------
+Comparing: PKS Prabowo-detik.txt
+sumur minyak-nusantara.txt
+TF: 0,02
+TFALL: 0,19
+co-oc: 0,06
+----------
+Comparing: PKS Prabowo-detik.txt
+sumur minyak-sinarharapan.txt
+TF: 0,02
+TFALL: 0,17
+co-oc: 0,03
+----------
+Comparing: PKS Prabowo-detik.txt
+syeikh-detik.txt
+TF: 0,03
+TFALL: 0,13
+co-oc: 0,03
+----------
+Comparing: PKS Prabowo-detik.txt
+syeikh-republika.txt
+TF: 0,03
+TFALL: 0,08
+co-oc: 0,03
+----------
+Comparing: setnov-detik.txt
+setnov-dw.txt
+TF: 0,22
+TFALL: 0,43
+co-oc: 0,07
+----------
+Comparing: setnov-detik.txt
+setnov-idntimes.txt
+TF: 0,24
+TFALL: 0,36
+co-oc: 0,06
+----------
+Comparing: setnov-detik.txt
+setnov-kontan.txt
+TF: 0,39
+TFALL: 0,46
+co-oc: 0,17
+----------
+Comparing: setnov-detik.txt
+setnov-okezone.txt
+TF: 0,30
+TFALL: 0,34
+co-oc: 0,08
+----------
+Comparing: setnov-detik.txt
+sumur minyak-cnnindonesia.txt
+TF: 0,08
+TFALL: 0,10
+co-oc: 0,04
+----------
+Comparing: setnov-detik.txt
+sumur minyak-detik.txt
+TF: 0,08
+TFALL: 0,13
+co-oc: 0,03
+----------
+Comparing: setnov-detik.txt
+sumur minyak-kumparan.txt
+TF: 0,05
+TFALL: 0,08
+co-oc: 0,02
+----------
+Comparing: setnov-detik.txt
+sumur minyak-nusantara.txt
+TF: 0,04
+TFALL: 0,10
+co-oc: 0,10
+----------
+Comparing: setnov-detik.txt
+sumur minyak-sinarharapan.txt
+TF: 0,08
+TFALL: 0,08
+co-oc: 0,03
+----------
+Comparing: setnov-detik.txt
+syeikh-detik.txt
+TF: 0,01
+TFALL: 0,16
+co-oc: 0,03
+----------
+Comparing: setnov-detik.txt
+syeikh-republika.txt
+TF: 0,12
+TFALL: 0,08
+co-oc: 0,05
+----------
+Comparing: setnov-dw.txt
+setnov-idntimes.txt
+TF: 0,17
+TFALL: 0,38
+co-oc: 0,07
+----------
+Comparing: setnov-dw.txt
+setnov-kontan.txt
+TF: 0,52
+TFALL: 0,52
+co-oc: 0,15
+----------
+Comparing: setnov-dw.txt
+setnov-okezone.txt
+TF: 0,17
+TFALL: 0,33
+co-oc: 0,07
+----------
+Comparing: setnov-dw.txt
+sumur minyak-cnnindonesia.txt
+TF: 0,02
+TFALL: 0,13
+co-oc: 0,04
+----------
+Comparing: setnov-dw.txt
+sumur minyak-detik.txt
+TF: 0,06
+TFALL: 0,14
+co-oc: 0,04
+----------
+Comparing: setnov-dw.txt
+sumur minyak-kumparan.txt
+TF: 0,02
+TFALL: 0,15
+co-oc: 0,04
+----------
+Comparing: setnov-dw.txt
+sumur minyak-nusantara.txt
+TF: 0,02
+TFALL: 0,15
+co-oc: 0,04
+----------
+Comparing: setnov-dw.txt
+sumur minyak-sinarharapan.txt
+TF: 0,02
+TFALL: 0,05
+co-oc: 0,04
+----------
+Comparing: setnov-dw.txt
+syeikh-detik.txt
+TF: 0,02
+TFALL: 0,13
+co-oc: 0,04
+----------
+Comparing: setnov-dw.txt
+syeikh-republika.txt
+TF: 0,03
+TFALL: 0,11
+co-oc: 0,04
+----------
+Comparing: setnov-idntimes.txt
+setnov-kontan.txt
+TF: 0,34
+TFALL: 0,33
+co-oc: 0,13
+----------
+Comparing: setnov-idntimes.txt
+setnov-okezone.txt
+TF: 0,27
+TFALL: 0,39
+co-oc: 0,08
+----------
+Comparing: setnov-idntimes.txt
+sumur minyak-cnnindonesia.txt
+TF: 0,09
+TFALL: 0,19
+co-oc: 0,04
+----------
+Comparing: setnov-idntimes.txt
+sumur minyak-detik.txt
+TF: 0,06
+TFALL: 0,23
+co-oc: 0,06
+----------
+Comparing: setnov-idntimes.txt
+sumur minyak-kumparan.txt
+TF: 0,07
+TFALL: 0,14
+co-oc: 0,04
+----------
+Comparing: setnov-idntimes.txt
+sumur minyak-nusantara.txt
+TF: 0,06
+TFALL: 0,16
+co-oc: 0,12
+----------
+Comparing: setnov-idntimes.txt
+sumur minyak-sinarharapan.txt
+TF: 0,09
+TFALL: 0,14
+co-oc: 0,07
+----------
+Comparing: setnov-idntimes.txt
+syeikh-detik.txt
+TF: 0,10
+TFALL: 0,11
+co-oc: 0,03
+----------
+Comparing: setnov-idntimes.txt
+syeikh-republika.txt
+TF: 0,04
+TFALL: 0,11
+co-oc: 0,03
+----------
+Comparing: setnov-kontan.txt
+setnov-okezone.txt
+TF: 0,27
+TFALL: 0,59
+co-oc: 0,03
+----------
+Comparing: setnov-kontan.txt
+sumur minyak-cnnindonesia.txt
+TF: 0,08
+TFALL: 0,14
+co-oc: 0,03
+----------
+Comparing: setnov-kontan.txt
+sumur minyak-detik.txt
+TF: 0,14
+TFALL: 0,07
+co-oc: 0,10
+----------
+Comparing: setnov-kontan.txt
+sumur minyak-kumparan.txt
+TF: 0,08
+TFALL: 0,13
+co-oc: 0,10
+----------
+Comparing: setnov-kontan.txt
+sumur minyak-nusantara.txt
+TF: 0,07
+TFALL: 0,13
+co-oc: 0,10
+----------
+Comparing: setnov-kontan.txt
+sumur minyak-sinarharapan.txt
+TF: 0,01
+TFALL: 0,08
+co-oc: 0,03
+----------
+Comparing: setnov-kontan.txt
+syeikh-detik.txt
+TF: 0,06
+TFALL: 0,13
+co-oc: 0,03
+----------
+Comparing: setnov-kontan.txt
+syeikh-republika.txt
+TF: 0,05
+TFALL: 0,07
+co-oc: 0,07
+----------
+Comparing: setnov-okezone.txt
+sumur minyak-cnnindonesia.txt
+TF: 0,09
+TFALL: 0,21
+co-oc: 0,05
+----------
+Comparing: setnov-okezone.txt
+sumur minyak-detik.txt
+TF: 0,07
+TFALL: 0,14
+co-oc: 0,03
+----------
+Comparing: setnov-okezone.txt
+sumur minyak-kumparan.txt
+TF: 0,05
+TFALL: 0,17
+co-oc: 0,03
+----------
+Comparing: setnov-okezone.txt
+sumur minyak-nusantara.txt
+TF: 0,05
+TFALL: 0,23
+co-oc: 0,03
+----------
+Comparing: setnov-okezone.txt
+sumur minyak-sinarharapan.txt
+TF: 0,00
+TFALL: 0,13
+co-oc: 0,03
+----------
+Comparing: setnov-okezone.txt
+syeikh-detik.txt
+TF: 0,02
+TFALL: 0,13
+co-oc: 0,03
+----------
+Comparing: setnov-okezone.txt
+syeikh-republika.txt
+TF: 0,01
+TFALL: 0,15
+co-oc: 0,03
+----------
+Comparing: sumur minyak-cnnindonesia.txt
+sumur minyak-detik.txt
+TF: 0,42
+TFALL: 0,58
+co-oc: 0,15
+----------
+Comparing: sumur minyak-cnnindonesia.txt
+sumur minyak-kumparan.txt
+TF: 0,68
+TFALL: 0,91
+co-oc: 0,56
+----------
+Comparing: sumur minyak-cnnindonesia.txt
+sumur minyak-nusantara.txt
+TF: 0,78
+TFALL: 0,87
+co-oc: 0,55
+----------
+Comparing: sumur minyak-cnnindonesia.txt
+sumur minyak-sinarharapan.txt
+TF: 0,75
+TFALL: 0,98
+co-oc: 0,55
+----------
+Comparing: sumur minyak-cnnindonesia.txt
+syeikh-detik.txt
+TF: 0,05
+TFALL: 0,15
+co-oc: 0,03
+----------
+Comparing: sumur minyak-cnnindonesia.txt
+syeikh-republika.txt
+TF: 0,02
+TFALL: 0,12
+co-oc: 0,04
+----------
+Comparing: sumur minyak-detik.txt
+sumur minyak-kumparan.txt
+TF: 0,45
+TFALL: 0,57
+co-oc: 0,18
+----------
+Comparing: sumur minyak-detik.txt
+sumur minyak-nusantara.txt
+TF: 0,45
+TFALL: 0,56
+co-oc: 0,15
+----------
+Comparing: sumur minyak-detik.txt
+sumur minyak-sinarharapan.txt
+TF: 0,29
+TFALL: 0,40
+co-oc: 0,17
+----------
+Comparing: sumur minyak-detik.txt
+syeikh-detik.txt
+TF: 0,03
+TFALL: 0,15
+co-oc: 0,07
+----------
+Comparing: sumur minyak-detik.txt
+syeikh-republika.txt
+TF: 0,03
+TFALL: 0,11
+co-oc: 0,06
+----------
+Comparing: sumur minyak-kumparan.txt
+sumur minyak-nusantara.txt
+TF: 0,88
+TFALL: 0,93
+co-oc: 0,70
+----------
+Comparing: sumur minyak-kumparan.txt
+sumur minyak-sinarharapan.txt
+TF: 0,85
+TFALL: 0,95
+co-oc: 0,72
+----------
+Comparing: sumur minyak-kumparan.txt
+syeikh-detik.txt
+TF: 0,03
+TFALL: 0,11
+co-oc: 0,03
+----------
+Comparing: sumur minyak-kumparan.txt
+syeikh-republika.txt
+TF: 0,02
+TFALL: 0,11
+co-oc: 0,04
+----------
+Comparing: sumur minyak-nusantara.txt
+sumur minyak-sinarharapan.txt
+TF: 0,88
+TFALL: 0,91
+co-oc: 0,72
+----------
+Comparing: sumur minyak-nusantara.txt
+syeikh-detik.txt
+TF: 0,05
+TFALL: 0,10
+co-oc: 0,07
+----------
+Comparing: sumur minyak-nusantara.txt
+syeikh-republika.txt
+TF: 0,02
+TFALL: 0,09
+co-oc: 0,10
+----------
+Comparing: sumur minyak-sinarharapan.txt
+syeikh-detik.txt
+TF: 0,04
+TFALL: 0,10
+co-oc: 0,03
+----------
+Comparing: sumur minyak-sinarharapan.txt
+syeikh-republika.txt
+TF: 0,02
+TFALL: 0,08
+co-oc: 0,07
+----------
+Comparing: syeikh-detik.txt
+syeikh-republika.txt
+TF: 0,23
+TFALL: 0,38
+co-oc: 0,07
+----------
